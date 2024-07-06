@@ -4,17 +4,17 @@ Teaching students offensive and defensive cyber security by way of them building
 ## Flow
 This game follows a series of phases.  
 
-| Phase | Type | Description|
+|Phase | Type | Description|
 |---|---|---|
-|Build It| Constructive| build the systems in the game environment|
-* *Discover It (Offensive)*  - discover the systems others built
-* *Access It (Offensive)* - access other the systems others built
-* *Command It (Offensive)* - establish control of the systems others built
-* *Persist It (Offensive)* - maintain control of the systems others built
-* *Detect It (Defensive)* - detect those who are now in your system
-* *Evade It (Offensive)* - hide your presense from those detecting you in their systems
-* *Deny It (Defensive)* - kick out those who are in your systems
-* *Destroy It (Offensive)* - destroy others' systems that you still control 
+|Build It |Constructive| build the systems in the game environment|
+|Discover It |Offensive|  discover the systems others built|
+|Access It |Offensive| access other the systems others built|
+|Command It |Offensive| establish control of the systems others built|
+|Persist It |Offensive| maintain control of the systems others built|
+|Detect It |Defensive| detect those who are now in your system|
+|Evade It |Offensive| hide your presense from those detecting you in their systems|
+|Deny It |Defensive| kick out those who are in your systems|
+|Destroy It |Offensive| destroy others' systems that you still control |
 
 Most phases will be completed before the next one begins, though some may run concurrently.  Each phase will have hot wash meetings during and afterwards to maximize learning.
 
