@@ -1,0 +1,3 @@
+# Built to be Owned Game for 2024Q3
+
+Students are requested to document their efforts, their challenges, and their solutions in this directory.  Please feel free to branch in your local git clone, make subdirectories for your areas, write up your efforts and so forth, then commit and do a pull request.  The Coach will then review your pull request and either merge it in or ask you to make changes first.
